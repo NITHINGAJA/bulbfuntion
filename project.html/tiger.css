@@ -1,0 +1,46 @@
+/* #red{
+    background-color: aquamarine;
+    height: 500px;
+}
+#brown{
+    background-color: bisque;
+    height: 100px;
+
+} */
+/* #navbarSupportedContent{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+} */
+#dog{
+    width: 50px;
+    height: 50px;
+}
+#dog2{
+    width: 200px;
+    height: 150px;
+}
+#dogSection{
+    background:url("https://c4.wallpaperflare.com/wallpaper/68/845/241/dogs-german-shepherd-dog-snow-hd-wallpaper-preview.jpg");
+    width: 100%;
+    height: 100vh;
+    background-position:center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    text-shadow: 20%;
+    text-decoration: aqua;
+}
+#hello{
+    box-shadow:50px 0px 25px 5px  rgb(104, 106, 104);
+}
+#hello:hover{
+    width: 50%;
+    height: 50%;
+    border-radius:50px;
+    box-shadow:-160px -160px 35px 10px  rgb(175, 173, 171);
+    box-shadow:70px 70px 45px 15px  rgb(197, 234, 237);
+    box-shadow:-80px -80px 55px 20px  rgb(102, 101, 102);
+    box-shadow:90px 90px 65px 25px  rgb(208, 204, 206);
+}
+
